@@ -2,7 +2,7 @@
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="200dp"
+    android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
     android:weightSum="100"
@@ -43,6 +43,7 @@
             android:layout_height="match_parent"
             android:background="#fff"
             android:scaleType="centerInside"
+            android:src="@drawable/white_background"
              />
 
         <ImageView
