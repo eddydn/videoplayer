@@ -49,7 +49,7 @@
             android:layout_width="25dp"
             android:layout_height="25dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/ic_volume_up_grey_24dp"
+            android:src="@drawable/ic_baseline_volume_up_24"
             android:layout_gravity="end|bottom"
             android:id="@+id/volume_control"
             android:alpha="0"
